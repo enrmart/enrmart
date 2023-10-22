@@ -46,7 +46,7 @@ Estudiante de **Ingeniería Informática** en la **Mención de Ingeniería de So
 </p>
 
 <h1 align="left">Activity:</h1>
-<p align="left">
+<p align="center">
   <img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enrmart&langs_count=8&theme=tokyonight&hide_border=true">
   
 </p>
