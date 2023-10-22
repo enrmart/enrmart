@@ -8,8 +8,6 @@
 
 Estudiante de **Ingeniería Informática** en la **Mención de Ingeniería de Software**.
 
-Interesado en 
-
 </p>
 
   
